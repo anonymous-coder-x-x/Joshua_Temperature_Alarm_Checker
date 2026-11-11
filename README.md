@@ -52,4 +52,5 @@ The safe temperature limit depends on the specific machine and should be set acc
 - Validating numeric input and displaying warnings
 
 ## Author
-Add your full name, department and institution here.
+Joshua Chukwuebuka, ND1 MECHATRONICS ENGINEERING 
+YABA COLLEGE OF TECHNOLOGY (YABA TECH)
